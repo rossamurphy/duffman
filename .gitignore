@@ -1,0 +1,4 @@
+./data
+./venv
+./cache.dbm.db
+./*.npy
